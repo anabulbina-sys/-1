@@ -81,7 +81,22 @@
 Результат: <img width="251" height="91" alt="image" src="https://github.com/user-attachments/assets/277b590a-5bc5-4258-8d83-61869493fd37" />
 
 
-Шпаргалку по работе с командами git 
+Шпаргалка по работе с git
+git init - Создать новый репозиторий
+
+git clone - Скопировать репозиторий с GitHub
+
+git status - Проверить состояние файлов
+
+git add <файл> - Добавить файл в отслеживаемые
+
+git add - Добавить все файлы
+
+git commit -m "сообщение" - Создать комментарий
+
+git push - Отправить изменения на GitHub
+
+git pull - Забрать изменения с GitHub
 
 Ссылки на используемые материалы
 Словари: https://docs.python.org/3/tutorial/datastructures.html#dictionaries
